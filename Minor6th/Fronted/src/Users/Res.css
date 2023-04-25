@@ -1,0 +1,178 @@
+.appbar {
+  background-color: black;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.appbar-text {
+  color: white;
+  font-size: 2em;
+}
+.head-text {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.text-on-image {
+  position: absolute;
+  right: 50%;
+  left: 10%;
+  top: 10%;
+}
+.img {
+  width: 80%;
+  height: 500px;
+  margin-left: 10%;
+}
+.btn1 {
+  position: relative;
+  top: 6px;
+  left: 55px;
+  font-size: 2em;
+  width: 50px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn2 {
+  position: relative;
+  top: 8px;
+  left: 205px;
+  font-size: 2em;
+  width: 30px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn3{
+  position: relative;
+  top: 8px;
+  left: 345px;
+  font-size: 2em;
+  width: 30px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn4{
+  position: relative;
+  top: 8px;
+  left: 495px;
+  font-size: 2em;
+  width: 30px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+
+.btn5{
+  position: relative;
+  top: 8px;
+  left: 645px;
+  font-size: 2em;
+  width: 30px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn6{
+  position: relative;
+  top: 8px;
+  left: 795px;
+  font-size: 2em;
+  width: 30px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn7{
+  position: relative;
+  top: 182px;
+  left: -215px;
+  font-size: 2em;
+  width: 105px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn8{
+  position: relative;
+  top: 135px;
+  left: 540px;
+  font-size: 2em;
+  width: 200px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn9{
+  position: relative;
+  top: 135px;
+  left: 800px;
+  font-size: 2em;
+  width: 120px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn10{
+  position: relative;
+  top: 295px;
+  left: -260px;
+  font-size: 2em;
+  width: 40px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn11{
+  position: relative;
+  top: 295px;
+  left: -115px;
+  font-size: 2em;
+  width: 40px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn12{
+  position: relative;
+  top: 295px;
+  left: 30px;
+  font-size: 2em;
+  width: 40px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn13{
+  position: relative;
+  top: 295px;
+  left: 180px;
+  font-size: 2em;
+  width: 40px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn14{
+  position: relative;
+  top: 245px;
+  left: 900px;
+  font-size: 2em;
+  width: 40px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.btn15{
+  position: relative;
+  top: 245px;
+  left: 1050px;
+  font-size: 2em;
+  width: 40px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}

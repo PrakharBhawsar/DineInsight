@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background: #3c4043;
+}
+.container{
+    margin: 5%;
+    border: 5px solid #00e673;
+}
+.handling{
+    padding: 20px;
+    text-align: center;
+    color:#00e673;
+}
+.subhandcon{
+    color:#00e673;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subhandling{
+    color:#00e673;  
+    width: 45%;
+    text-align: center;
+}
+.radio {
+    width: 100px;
+    height: 50px;
+}

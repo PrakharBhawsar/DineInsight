@@ -1,0 +1,10 @@
+
+User:-
+1->    Login Page / Signup Page
+2->    select options
+3->    filter the db->Restaurants page -> Reserve my table
+4->    Restaurants table img -> select table -> Confirm
+
+Restaurants Page:-
+1->    Login Page/Signup Page --options
+2->    Restaurants Table Booking Accept/Reject
